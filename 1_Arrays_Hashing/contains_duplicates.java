@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-// O(n) Time Complexity Using Hashset -- more optimal tha hashmap in both space and time
+// O(n) Time Complexity Using Hashset -- more optimal than hashmap in both space and time
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
