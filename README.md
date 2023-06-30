@@ -9,6 +9,7 @@ This repository contains my solutions to coding problems from the Neetcode platf
 - [Structure](#structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -53,3 +54,6 @@ Contributions to this repository are welcome! If you would like to contribute yo
 
 Please ensure that your code adheres to good coding practices and is well-documented.
 
+## License
+
+The content of this repository is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code as you see fit. However, I make no guarantees or warranties regarding the accuracy or reliability of the solutions.
