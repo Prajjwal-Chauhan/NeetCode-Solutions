@@ -1,6 +1,6 @@
 # Neetcode Solutions
 
-This repository contains my solutions to coding problems from the Neetcode platform. Each problem has been solved and implemented in various Time and space compleixities, providing a diverse range of solutions and a better understandings.
+This repository contains my solutions to coding problems from the Neetcode platform. Each problem has been solved and implemented in various time and space complexities, providing a diverse range of solutions and a better understanding.
 
 ## Table of Contents
 
